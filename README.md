@@ -1,5 +1,5 @@
 # Finding Precursors to Rare Events
-Take-home assignment for Oden Technologies: find the signals that show up before rare component failures, turn them into simple detectors, and test them with lift, precision and coverage.
+Take-home assignment for Oden Technologies: find and design Precursors that show up before Failure Events, and test them with lift, precision and coverage.
 
 ## Data
 
